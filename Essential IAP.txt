@@ -1,0 +1,5 @@
+Things to do in Freepe Squad case:
+
+1. Add Google App API in Unity Analytics
+2. Make In-App Products in Google Developer Console.
+3. Add In-App Products ID in Freepe Sqaud InAppPurchasing Script.
